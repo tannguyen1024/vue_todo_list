@@ -1,4 +1,7 @@
-# vue_crash_todolist
+# Vue Todo List
+
+## Summary
+A short project to create a simple todo list using Vue.JS.  Some technologies utilized are 
 
 ## Project setup
 ```
